@@ -2,9 +2,9 @@
 
 Адаптивная верстка сайта по макету
 
-Посмотреть проект можно по ссылке - [LeRestaurante](https://chumakk.github.io/LeRestaurante/`)
+Посмотреть проект можно по ссылке - [LeRestaurante](https://chumakk.github.io/LeRestaurante)
 
-![LeRestaurante](E:\Важное\restaurant\LeRestaurante.jpg)
+![LeRestaurante](./LeRestaurante.jpg)
 
 В этом проекте я использовал:
 
